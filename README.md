@@ -26,6 +26,8 @@ The dataset used in this project is generated using the **Faker** library due to
 2. Click on the "Predict" button to receive a personalized loan product recommendation.
 3. View the prediction probabilities in the chart for each loan product type.
 
+![Model Performance Visualization](https://github.com/selva1826/Smart-Loan-Product-Advisor-Personalized-Financial-Recommendations/blob/main/Output%20image.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request. Ensure that you follow the project's code of conduct and contribute in a way that is respectful to others.
